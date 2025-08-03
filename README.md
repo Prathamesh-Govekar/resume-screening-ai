@@ -10,7 +10,7 @@ Automatically classify resumes into job roles like **Data Scientist**, **HR**, *
 
 Paste your resume into the Streamlit app and get a predicted role instantly.
 
-![Streamlit Screenshot](https://i.imgur.com/qkG8eNQ.png) <!-- Optional: Replace with your own screenshot -->
+![Streamlit Screenshot](assets/demo.png) <!-- Optional: Replace with your own screenshot -->
 
 ---
 
@@ -40,8 +40,3 @@ Paste your resume into the Streamlit app and get a predicted role instantly.
 | F1-Score    | 0.875   |
 
 > Evaluated on 20% test split using TF-IDF + Logistic Regression.
-
----
-
-## 📂 Folder Structure
-
