@@ -1,0 +1,23 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE/editor config
+.vscode/
+.idea/
+
+# Streamlit logs (if any)
+.streamlit/
