@@ -1,6 +1,6 @@
 # resume-screening-ai
 
-# 🧠 Resume Screening AI
+# Resume Screening AI
 
 Automatically classify resumes into job roles like **Data Scientist**, **HR**, **Software Engineer**, etc., using Natural Language Processing and Machine Learning.
 
